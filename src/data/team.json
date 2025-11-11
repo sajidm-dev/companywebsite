@@ -1,0 +1,52 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "position": "CEO & Founder",
+      "bio": "Visionary leader with 15+ years of industry experience",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      "social": {
+        "linkedin": "https://linkedin.com",
+        "twitter": "https://twitter.com",
+        "email": "john@company.com"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Sarah Johnson",
+      "position": "CTO & Co-Founder",
+      "bio": "Technology expert specializing in innovative solutions",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop",
+      "social": {
+        "linkedin": "https://linkedin.com",
+        "twitter": "https://twitter.com",
+        "email": "sarah@company.com"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Michael Chen",
+      "position": "CFO",
+      "bio": "Financial strategist with expertise in business growth",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
+      "social": {
+        "linkedin": "https://linkedin.com",
+        "twitter": "https://twitter.com",
+        "email": "michael@company.com"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "position": "Head of Operations",
+      "bio": "Operations leader focused on excellence and efficiency",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop",
+      "social": {
+        "linkedin": "https://linkedin.com",
+        "twitter": "https://twitter.com",
+        "email": "emily@company.com"
+      }
+    }
+  ]
+}

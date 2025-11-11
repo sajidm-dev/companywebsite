@@ -1,0 +1,40 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Alex Thompson",
+      "position": "CEO, Tech Startup",
+      "company": "InnovateTech",
+      "rating": 5,
+      "message": "Amazing service! The team exceeded our expectations and delivered exceptional results. Highly recommended!",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop"
+    },
+    {
+      "id": 2,
+      "name": "Jessica Williams",
+      "position": "Director, Operations",
+      "company": "Global Enterprises",
+      "rating": 5,
+      "message": "Professional, reliable, and results-driven. They've been instrumental in our company's growth.",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop"
+    },
+    {
+      "id": 3,
+      "name": "David Kumar",
+      "position": "Founder",
+      "company": "Digital Solutions Ltd",
+      "rating": 5,
+      "message": "The best decision we made for our business. Outstanding support and innovative solutions!",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop"
+    },
+    {
+      "id": 4,
+      "name": "Rachel Smith",
+      "position": "Marketing Manager",
+      "company": "Brand Innovators",
+      "rating": 5,
+      "message": "Exceptional service quality and attention to detail. They truly care about client success.",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop"
+    }
+  ]
+}

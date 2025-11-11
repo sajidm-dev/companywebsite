@@ -1,0 +1,22 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Packages",
+      "description": "Comprehensive packages designed for all business sizes",
+      "icon": "📦"
+    },
+    {
+      "id": 2,
+      "name": "Services",
+      "description": "Professional services to support your business",
+      "icon": "🛠️"
+    },
+    {
+      "id": 3,
+      "name": "Solutions",
+      "description": "Custom solutions tailored to your needs",
+      "icon": "💡"
+    }
+  ]
+}

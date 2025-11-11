@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Premium Package",
+      "categoryId": 1,
+      "price": 99.99,
+      "description": "Our most popular package with essential features",
+      "features": ["Feature 1", "Feature 2", "Feature 3"],
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 2,
+      "name": "Professional Package",
+      "categoryId": 1,
+      "price": 199.99,
+      "description": "Advanced features for growing businesses",
+      "features": ["All Premium Features", "Advanced Analytics", "Priority Support"],
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 3,
+      "name": "Enterprise Package",
+      "categoryId": 1,
+      "price": 499.99,
+      "description": "Complete solution for large organizations",
+      "features": ["All Features", "Dedicated Account Manager", "24/7 Support", "Custom Integration"],
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 4,
+      "name": "Consulting Service",
+      "categoryId": 2,
+      "price": 149.99,
+      "description": "Expert guidance for your projects",
+      "features": ["1-on-1 Sessions", "Strategy Planning", "Implementation Support"],
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 5,
+      "name": "Implementation Support",
+      "categoryId": 2,
+      "price": 299.99,
+      "description": "Full implementation assistance from our experts",
+      "features": ["Setup Assistance", "Training", "Testing Support"],
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 6,
+      "name": "Custom Development",
+      "categoryId": 3,
+      "price": 799.99,
+      "description": "Tailored solutions for your unique needs",
+      "features": ["Custom Code", "Full Integration", "Deployment"],
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=300&fit=crop"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "partners": [
+    {
+      "id": 1,
+      "name": "Tech Solutions Inc",
+      "logo": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=200&h=100&fit=crop",
+      "description": "Leading technology solutions provider"
+    },
+    {
+      "id": 2,
+      "name": "Cloud Services Pro",
+      "logo": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=200&h=100&fit=crop",
+      "description": "Enterprise cloud infrastructure"
+    },
+    {
+      "id": 3,
+      "name": "Digital Marketing Hub",
+      "logo": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=200&h=100&fit=crop",
+      "description": "Full-service digital marketing agency"
+    },
+    {
+      "id": 4,
+      "name": "Analytics Engine",
+      "logo": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=200&h=100&fit=crop",
+      "description": "Advanced analytics and insights platform"
+    }
+  ]
+}
