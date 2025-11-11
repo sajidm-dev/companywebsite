@@ -15,7 +15,7 @@ export default function Header({ currentPage, setCurrentPage }) {
     <header className="header">
       <div className="header-container">
         <div className="logo">
-          <h1>CompanyApp</h1>
+          <h1>Toshiba</h1>
         </div>
         <button 
           className="menu-toggle"
