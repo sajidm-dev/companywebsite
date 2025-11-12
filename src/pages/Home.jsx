@@ -8,7 +8,7 @@ export default function Home({setCurrentPage}) {
     <div className="home-page">
       <section className="hero">
         <div className="hero-content">
-          <h1>Welcome to CompanyApp</h1>
+          <h1>Welcome to Toshiba</h1>
           <p>Your trusted partner for innovative solutions and business growth</p>
           <button className="cta-button" onClick={()=> setCurrentPage('products')}>See products</button>
         </div>
