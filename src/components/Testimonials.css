@@ -87,7 +87,7 @@
 
 @media (max-width: 480px) {
   .testimonial-card {
-    padding: 2rem 1rem;
+    padding: 2rem  0.2rem;
   }
 
   .testimonial-image {
