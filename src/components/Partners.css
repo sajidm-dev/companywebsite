@@ -50,8 +50,8 @@
   line-height: 1.5;
   margin: 0;
 }
-/* 
-@media (max-width: 768px) {
+
+@media (max-width: 480px) {
   .partners-grid {
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   }
@@ -59,4 +59,8 @@
   .partners-section h2 {
     font-size: 1.6rem;
   }
-} */
+
+  .partners-section{
+    padding: 2rem 1rem;
+  }
+}
