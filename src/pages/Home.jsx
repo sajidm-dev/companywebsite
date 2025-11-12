@@ -3,7 +3,7 @@ import Partners from '../components/Partners';
 import Testimonials from '../components/Testimonials';
 import './Home.css';
 
-export default function Home({setCurrentPage}) {
+export default function Home({setCurrentPage, data}) {
   return (
     <div className="home-page">
       <section className="hero">
@@ -42,7 +42,7 @@ export default function Home({setCurrentPage}) {
         </div>
       </section>
 
-      <Team />
+      <Team data={data}/>
       <Partners />
       <Testimonials />
     </div>
